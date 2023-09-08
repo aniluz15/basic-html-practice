@@ -12,10 +12,10 @@ body {
     border-radius: 5px;
     
     width: 400px;
-    box-sizing: border-box;  /* Add this */
-    margin: left;
-  }
-img {
-    margin: right
+    box-sizing: border;  /* Add this */
+    margin: auto;
     
-}
+  }    
+  img {
+    opacity: 0.5;
+  }
